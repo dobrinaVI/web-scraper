@@ -1,4 +1,4 @@
-# Scraper
+# WEB Scraper
 
 ### CLI
 The CLI has the following interface:
