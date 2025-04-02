@@ -33,7 +33,7 @@ optional arguments:
   3. `<lastBuildDate>` is equal to Last Build Date
   4. `<pubDate>` is equal to Publish Date 
   5. `<language>` is equal to Language
-  6. `<category>` `for category in categories` is equal to Categories: category1, category2
+  6. `<category>`  is equal to a list of available Categories.
   7. `<managinEditor>` is equal to Editor
   8. `<description>` is equal to Description
   9. `<item>` `for item in items` each item is separated by a custom separator, and all items within except for the description are stuck together.
@@ -42,7 +42,7 @@ optional arguments:
   2. `<author>` is equal to Author
   3. `<pubDate>` is equal to Published
   4. `<link>` is equal to Link
-  5. `<category>` is equal to Categories: category1, category2
+  5. `<category>` is equal to a list of available Categories.
   6. `<description>` is on a separate line without any name.
 
 ```shell
